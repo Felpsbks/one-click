@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: #f6f7f8;
+}
+
+
+hader{
+    background-image: url(/One-click-pag-remester/assets/bg.png);
+}
+
+
+bdy{
+    background-image: url(/One-click-pag-remester/assets/bg.png);
+}

@@ -1,0 +1,15 @@
+{
+  "name": "pag--on-click",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev" : "npx tailwindcss -i ./Stayle/style.css -o ./Stayle/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
